@@ -1,0 +1,25 @@
+name: don_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_form_builder: ^9.1.1
+  form_builder_validators: ^9.1.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+dependency_overrides:
+  intl: ^0.20.2
+
+flutter:
+  uses-material-design: true
