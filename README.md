@@ -60,34 +60,34 @@ lib/
 เพิ่ม screenshot ไว้ในโฟลเดอร์ `assets/screenshots` แล้วแสดงใน README ได้ดังนี้:
 <p>
 <br>
-  <img src="screenshots/home.png" width="260">
+  <img src="home.png" width="260">
   <br>
   หน้าจอหลักจะมี 2 ปุ่มให้เลือก form,result
   <br>
-  <img src="screenshots/form u.png" width="260">
+  <img src="form u.png" width="260">
   <br>
   ให้กรอก username email password และ ยอมรับเงื่อนไข
    <br>
-  <img src="screenshots/form i.png" width="260">
+  <img src="form i.png" width="260">
   <br>
   เลือกความสนใจ ประเภทผู้ใช้ 
   <br>
-  <img src="screenshots/selectd.png" width="260">
+  <img src="selectd.png" width="260">
   <br>
    เลือกวันที่ท่องเที่ยว
    <br>
-  <img src="screenshots/form r.png" width="260">
-   <img src="screenshots/apm.png" width="260">
-    <img src="screenshots/time.png" width="260">
+  <img src="form r.png" width="260">
+   <img src="apm.png" width="260">
+    <img src="time.png" width="260">
     <br>
   เลือกวันนัดหมายและเวลา
   <br>
-   <img src="screenshots/form r.png" width="260">
-    <img src="screenshots/drop.png" width="260">
+   <img src="form r.png" width="260">
+    <img src="drop.png" width="260">
     <br>
     เลือกประเทศที่ต้องการ เลือกทักษะ เพศ ประเมินความพึงพอใจ
     <br>
-  <img src="screenshots/result.png" width="260">
+  <img src="result.png" width="260">
   <br>
   กดปุ่ม submit เพื่อแสดงผลรวมทั้งหมด
   <br>
